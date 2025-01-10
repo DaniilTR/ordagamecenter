@@ -1,0 +1,17 @@
+.sot_main {
+	padding-top: 10%;
+	padding-bottom: 1%;
+	text-align: center;
+}
+main {
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.transferr {
+	text-align: center;
+    font-size: 24px;
+}
+.transferr img{
+	width: 200px;
+}
